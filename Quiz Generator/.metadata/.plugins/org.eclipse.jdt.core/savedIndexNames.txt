@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/davi/Documents/Documents/eclipse/quiz/Quiz Generator/.metadata/.plugins/org.eclipse.jdt.core
+3429038819.index
+177622949.index
